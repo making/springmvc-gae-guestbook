@@ -1,4 +1,4 @@
-package com.example.guestbook.app.greeting.app;
+package com.example.guestbook.app.greeting;
 
 public class GreetingForm {
 	private String guestbookName;
